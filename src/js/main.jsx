@@ -9,10 +9,12 @@ import "bootstrap"
 import '../styles/index.css'
 
 // components
-import Home from './components/Home';
+import { Card } from './components/Card';
+import { Footer } from './components/Footer';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Home/>
+    <Card />
+    <Footer />
   </React.StrictMode>,
 )
