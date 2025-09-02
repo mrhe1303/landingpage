@@ -9,15 +9,18 @@ import "bootstrap"
 import '../styles/index.css'
 
 // components
+
 import { Navbar } from './components/Navbar';
 import { Jumbotron } from './components/Jumbotron';
-
+import { Card } from './components/Card';
+import { Footer } from './components/Footer';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-  
     <Navbar/>
     <Jumbotron/>
-    
+    <Card />
+    <Footer />
+
   </React.StrictMode>,
 )
