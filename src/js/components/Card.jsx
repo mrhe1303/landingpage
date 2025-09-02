@@ -37,7 +37,7 @@ export function Card() {
 
                 <div className="col-md-3 col-sm-6 mb-4">
                     <div className="card h-100">
-                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Gustavo_Fring_BCS_S3E10.png/250px-Gustavo_Fring_BCS_S3E10.png" className="card-img-top" style={{ height: "407px" }} alt="Gus" />
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Gustavo_Fring_BCS_S3E10.png/250px-Gustavo_Fring_BCS_S3E10.png" className="card-img-top" style={{ height: "286,792px" }} alt="Gus" />
                         <div className="card-body text-center d-flex flex-column">
                             <h5 className="card-title">Gus Fring</h5>
                             <p className="card-text flex-grow-1">Successful business by day, ruthless narcotics dealer by night.</p>
